@@ -191,7 +191,7 @@ h3 { margin-bottom: 0.85rem; font-size: clamp(1.35rem, 2vw, 1.75rem); }
 .founder-details dt { color: var(--navy-800); font-size: 0.75rem; font-weight: 750; }
 .founder-details dd { margin: 0; color: var(--muted); font-size: 0.8rem; }
 .founder-contact { display: flex; flex-wrap: wrap; gap: 0.3rem 1rem; margin-top: 1.5rem; }
-.founder-contact a { min-height: 2.75rem; display: inline-flex; align-items: center; color: var(--navy-800); font-size: 0.82rem; font-weight: 700; overflow-wrap: anywhere; }
+.founder-contact a { min-height: 2.75rem; display: inline-flex; align-items: center; color: var(--paper); font-size: 0.82rem; font-weight: 700; overflow-wrap: anywhere; }
 
 /* =========================
    Work
